@@ -36,9 +36,9 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
 ### Example Codes
    Save whatever example code file you want to try as main.py in pico w as shown in above step 3, also add related lib files with default name.
    - [Example 1](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_pattern.py) : This code generates pattern, you can experiment to develop your favourite one
-   - [Example 2](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_2in9.py
+   - [Example 2](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_7in5.py
    - [Example 4](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_shapes.py) : Play with some shapes like circle, square, etc.
-   - [Example 3](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_images.py) : To display images on EnkPi, this code need library EnkPi_2in9.py & pics.py
+   - [Example 3](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_images.py) : To display images on EnkPi, this code need library EnkPi_7in5.py & pics.py
    - and [More...](https://github.com/sbcshop/EnkPi_7.5_Software/tree/main/examples)
    
    Now you are ready to try out your own codes, **_Happy Coding!_**
