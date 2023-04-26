@@ -17,7 +17,7 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
    - Select device at the bottom right with a suitable COM port, as shown in the below figure. You might get a different COM port.
       <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img1.jpg" />
       <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img2.jpg" />
-   - Write simple onboard blink Python code or [Download Led blink code](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/onboard_ledBlink.py), then click on the green run button to make your script run on EnkPi. 
+   - Write simple onboard blink Python code or [Download Led blink code](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/onboard_ledBlink.py), then click on the green run button to make your script run on EnkPi. 
       <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img3.jpg" />
      
      Now that we've reached this point, you're executing your script through Thonny IDE, so if you unplug Pico, it will stop running. To run your script without using an IDE, simply power up EnkPi and it should run your script, go to step 3. Once you have transferred your code to the EnkPi board, to see your script running, just plug in power either way using micro USB or Type C, both will work.
@@ -35,11 +35,11 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
 
 ### Example Codes
    Save whatever example code file you want to try as main.py in pico w as shown in above step 3, also add related lib files with default name.
-   - [Example 1](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_pattern.py) : This code generates pattern, you can experiment to develop your favourite one
-   - [Example 2](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_2in9.py
-   - [Example 4](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_shapes.py) : Play with some shapes like circle, square, etc.
-   - [Example 3](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_images.py) : To display images on EnkPi, this code need library EnkPi_2in9.py & pics.py
-   - and [More...](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/examples)
+   - [Example 1](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_pattern.py) : This code generates pattern, you can experiment to develop your favourite one
+   - [Example 2](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_2in9.py
+   - [Example 4](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_shapes.py) : Play with some shapes like circle, square, etc.
+   - [Example 3](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/examples/display_images.py) : To display images on EnkPi, this code need library EnkPi_2in9.py & pics.py
+   - and [More...](https://github.com/sbcshop/EnkPi_7.5_Software/tree/main/examples)
    
    Now you are ready to try out your own codes, **_Happy Coding!_**
 
@@ -55,11 +55,11 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
    ![EnkPi5_83]()
    * [EnkPi 5.83"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297466963) - EnkPi with 5.83" E-paper display size
 
-   ![EnkPi7_5]()
-   * [EnkPi 7.5"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 7.5" E-paper display size
+   ![EnkPi2_9]()
+   * [EnkPi 2.9"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297401427) - EnkPi with 2.9" E-paper display size
  
    ![Universal_E-paper_HAT]()
-   * [Universal E-paper HAT]() - EnkPi with 5.83" E-paper display size
+   * [Universal E-paper HAT]() - Universal E-paper Pico HAT to connect epaper display like 2.9", 4.2", 5.83" & 7.5"  
 
  
 ## Product License
