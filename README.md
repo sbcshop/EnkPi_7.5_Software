@@ -1,10 +1,10 @@
 # EnkPi_7.5_Software
 
 ### EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users.
-Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Support with up to 170 degrees Wide Viewing Angle. In this github repo will see setup and getting started guide for EnkPi 2.9" series.
+Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Support with up to 170 degrees Wide Viewing Angle. In this github repo will see setup and getting started guide for EnkPi 7.5" series.
 
-<img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/EnkPi_2_9.jpg " width = "500" height = "300" />
-<img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/pinout_2_9.jpg" width = "700" height = "300"/>
+<img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/EnkPi_7_5.jpg " width = "500" height = "300" />
+<img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/pinout_7_5.jpg" width = "700" height = "300"/>
 
 ## Getting Started with EnkPi
 ### 1. Step to install boot Firmware
@@ -29,9 +29,9 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr3.jpg" />
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr4.jpg" />
    
-   In similar way you can add various python code files to Pico. Also to try out sample codes given here in [examples folder](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/examples) you need to save library files from [lib](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/lib) folder into Pico W of EnkPi.
+   In similar way you can add various python code files to Pico. Also to try out sample codes given here in [examples folder](https://github.com/sbcshop/EnkPi_7.5_Software/tree/main/examples) you need to save library files from [lib](https://github.com/sbcshop/EnkPi_7.5_Software/tree/main/lib) folder into Pico W of EnkPi.
    
-   To do this follow same steps as shown in step 3 but **_to save library file don't change name keep default one:_** [EnkPi_2in9.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/EnkPi_2in9.py), [pics.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/pics.py)
+   To do this follow same steps as shown in step 3 but **_to save library file don't change name keep default one:_** [EnkPi_2in9.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/EnkPi_7in5.py), [pics.py](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/lib/pics.py)
 
 ### Example Codes
    Save whatever example code file you want to try as main.py in pico w as shown in above step 3, also add related lib files with default name.
