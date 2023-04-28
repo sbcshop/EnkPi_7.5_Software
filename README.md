@@ -3,7 +3,7 @@
 ### EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users.
 Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Support with up to 170 degrees Wide Viewing Angle. In this github repo will see setup and getting started guide for EnkPi 7.5" series.
 
-<img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/EnkPi_7_5.jpg " width = "600" height = "350" />
+<img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/EnkPi_7_5.jpg " width = "300" height = "250" />
 <img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/pinout_7_5.jpg" />
 
 ## Getting Started with EnkPi
@@ -44,6 +44,10 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
    Now you are ready to try out your own codes, **_Happy Coding!_**
 
 ## Documentation
+  * [EnkPi 7.5" Schematic](https://github.com/sbcshop/EnkPi_7.5_Hardware/blob/main/Design%20Data/SCH%207.5%20INCH.pdf)
+  * [EnkPi 7.5" Hardware](https://github.com/sbcshop/EnkPi_7.5_Hardware)
+  * [Step by Step Guide to build byte array from Image](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/Downloads/Step%20by%20Step%20Guide%20to%20create%20byte%20array%20from%20image.pdf)
+
   * [MicroPython getting started for RPI](https://docs.micropython.org/en/latest/rp2/quickref.html)
   * [RP2040 Datasheet](https://github.com/sbcshop/HackyPi-Hardware/blob/main/Documents/rp2040-datasheet.pdf)
 
