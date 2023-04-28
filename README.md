@@ -47,7 +47,6 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
   * [EnkPi 7.5" Schematic](https://github.com/sbcshop/EnkPi_7.5_Hardware/blob/main/Design%20Data/SCH%207.5%20INCH.pdf)
   * [EnkPi 7.5" Hardware](https://github.com/sbcshop/EnkPi_7.5_Hardware)
   * [Step by Step Guide to build byte array from Image](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/Downloads/Step%20by%20Step%20Guide%20to%20create%20byte%20array%20from%20image.pdf)
-
   * [MicroPython getting started for RPI](https://docs.micropython.org/en/latest/rp2/quickref.html)
   * [RP2040 Datasheet](https://github.com/sbcshop/HackyPi-Hardware/blob/main/Documents/rp2040-datasheet.pdf)
 
