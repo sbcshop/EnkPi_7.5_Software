@@ -1,4 +1,4 @@
-# Example of display text
+# Example of RTC test
 from EnkPi_7in5 import RTC
 import time
 
