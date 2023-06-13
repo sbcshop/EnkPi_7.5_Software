@@ -20,7 +20,7 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
 ## Getting Started with EnkPi
 ### 1. Step to install boot Firmware
    - Every EnkPi will be provided with boot firmware already installed, so you can directly go to step 2
-   - If in any case, you need to install firmware for your board, then you can follow the tutorial [here](https://github.com/sbcshop/PiCoder-Software/blob/main/README.md#1-how-to-install-boot-firmware-in-picoder-kit)
+   - If in any case, you need to install firmware for your board, then you can follow the guide [here](https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/Downloads/Pico%20W%20Micropython%20Firmware%20Installation%20Steps.pdf)
 
 ### 2. Testing Pico W on EnkPi
    - Download **Thonny IDE** from [Download link](https://thonny.org/) as per your OS and install it.
